@@ -1,0 +1,1 @@
+# negativo-de-una-imagen-en-escala-grises
